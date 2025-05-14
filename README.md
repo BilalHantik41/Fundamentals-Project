@@ -25,9 +25,7 @@ Bu klasör, C# ile yazılmış üç konsol uygulamasını bir arada barındırı
    cd "C# Fundamentals Project"
 Uygulamayı çalıştırmak istediğiniz klasöre geçin ve dotnet run komutunu verin:
 
-bash
-Kopyala
-Düzenle
+
 cd RandomSayiUretme
 dotnet run
 
@@ -37,13 +35,13 @@ dotnet run
 cd ../OrtalamaHesaplama
 dotnet run
 Proje Açıklamaları
-RandomSayiUretme
+**RandomSayiUretme**
 
 1 ile 100 arasında rastgele tam sayı üretir.
-
+  
 System.Random kullanır.
 
-HesapMakinası
+**HesapMakinası**  
 
 İki sayı ve işlem ( + , - , * , / ) girdisi alır.
 
@@ -51,7 +49,7 @@ double.TryParse ile geçerli sayı kontrolü.
 
 Bölme işleminde sıfıra bölme kontrolü.
 
-OrtalamaHesaplama
+**OrtalamaHesaplama**
 
 Üç not alır ve double.TryParse ile doğrular.
 
@@ -59,9 +57,7 @@ Aritmetik ortalamayı hesaplar.
 
 Aşağıdaki kurallara göre harf notu atar:
 
-css
-Kopyala
-Düzenle
+
 90–100 → AA
 85–89  → BA
 80–84  → BB
