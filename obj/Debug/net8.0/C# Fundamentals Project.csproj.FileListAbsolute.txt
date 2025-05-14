@@ -1,0 +1,15 @@
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\C# Fundamentals Project\C# Fundamentals Project\obj\Debug\net8.0\C# Fundamentals Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\C# Fundamentals Project\C# Fundamentals Project\obj\Debug\net8.0\C# Fundamentals Project.AssemblyInfoInputs.cache
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\C# Fundamentals Project\C# Fundamentals Project\obj\Debug\net8.0\C# Fundamentals Project.AssemblyInfo.cs
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\C# Fundamentals Project\C# Fundamentals Project\obj\Debug\net8.0\C# Fundamentals Project.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\C# Fundamentals Project\C# Fundamentals Project\obj\Debug\net8.0\C# Fundamentals Project.sourcelink.json
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\C# Fundamentals Project\C# Fundamentals Project\bin\Debug\net8.0\C# Fundamentals Project.exe
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\C# Fundamentals Project\C# Fundamentals Project\bin\Debug\net8.0\C# Fundamentals Project.deps.json
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\C# Fundamentals Project\C# Fundamentals Project\bin\Debug\net8.0\C# Fundamentals Project.runtimeconfig.json
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\C# Fundamentals Project\C# Fundamentals Project\bin\Debug\net8.0\C# Fundamentals Project.dll
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\C# Fundamentals Project\C# Fundamentals Project\bin\Debug\net8.0\C# Fundamentals Project.pdb
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\C# Fundamentals Project\C# Fundamentals Project\obj\Debug\net8.0\C# Fundamentals Project.dll
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\C# Fundamentals Project\C# Fundamentals Project\obj\Debug\net8.0\refint\C# Fundamentals Project.dll
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\C# Fundamentals Project\C# Fundamentals Project\obj\Debug\net8.0\C# Fundamentals Project.pdb
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\C# Fundamentals Project\C# Fundamentals Project\obj\Debug\net8.0\C# Fundamentals Project.genruntimeconfig.cache
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\C# Fundamentals Project\C# Fundamentals Project\obj\Debug\net8.0\ref\C# Fundamentals Project.dll
