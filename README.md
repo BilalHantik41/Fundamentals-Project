@@ -1,82 +1,63 @@
-# C# Temeller Projesi
+C# Fundamentals Project
 
-Bu klasör, C# ile yazılmış üç konsol uygulamasını bir arada barındırır. Her biri C#’ın temel kavramlarını pekiştirmeniz için hazırlanmıştır.
+Bu proje, temel C# konsol uygulamaları içeren üç farklı mini uygulamayı barındırır ve bir menü sistemi aracılığıyla çalıştırılmasını sağlar:
 
-## Proje Yapısı
+Rastgele Sayı Bulma Oyunu
 
-- **RandomSayiUretme**  
-  Klasör: `RandomSayiUretme`  
-  Açıklama: 1 ile 100 arasında rastgele bir tam sayı üretir ve ekrana yazar.
-  * Kullanıcıya 5 hak verir ve rastgele sayıyı bilmesini ister
-  * Kullanıcı sayı haricinde bir değer girerse kontrol sağlar ve tekrar değer girmesini ister
-- **HesapMakinası**  
-  Klasör: `HesapMakinası`  
-  Açıklama: Kullanıcıdan iki sayı ve bir işlem seçimi (toplama, çıkarma, çarpma, bölme) alır, sonucu hesaplar ve ekrana yazar.
-  * Kullanıcı sayı haricinde bir değer girerse kontrol sağlar ve tekrar değer girmesini ister
-- **OrtalamaHesaplama**  
-  Klasör: `OrtalamaHesaplama`  
-  Açıklama: Kullanıcıdan üç adet not alır, aritmetik ortalamasını hesaplar ve harf notu (AA, BA, BB, …) atar.
-  * Kullanıcı sayı haricinde bir değer girerse kontrol sağlar ve tekrar değer girmesini ister
+Hesap Makinası
 
-## Çalıştırma Adımları
+Not Ortalaması Hesaplama
 
-1. Komut satırını açın ve proje ana klasörüne gidin:  
-   ```bash
-   cd "C# Fundamentals Project"
-Uygulamayı çalıştırmak istediğiniz klasöre geçin ve dotnet run komutunu verin:
+Özellikler
 
+Menü Sistemi: Uygulama başlatıldığında kullanıcıdan bir seçim yapması istenir. 1, 2 veya 3 numaralı uygulamalardan birini çalıştırabilir veya 0 tuşlayarak çıkış yapabilir.
 
-cd RandomSayiUretme
-dotnet run
+Rastgele Sayı Bulma Oyunu: 1–100 arası rastgele bir sayı tahmin etme, ipuçları ve 5 hak.
 
-cd ../HesapMakinası
-dotnet run
+Hesap Makinası: İki ondalıklı sayı ile toplama, çıkarma, çarpma ve bölme işlemleri.
 
-cd ../OrtalamaHesaplama
-dotnet run
-Proje Açıklamaları
-**RandomSayiUretme**
+Not Ortalaması Hesaplama: Üç notu kabullenerek ortalama hesaplama ve harf notu (AA, BA, BB, ... FF) atama.
 
-1 ile 100 arasında rastgele tam sayı üretir.
-  
-System.Random kullanır.
-
-**HesapMakinası**  
-
-İki sayı ve işlem ( + , - , * , / ) girdisi alır.
-
-double.TryParse ile geçerli sayı kontrolü.
-
-Bölme işleminde sıfıra bölme kontrolü.
-
-**OrtalamaHesaplama**
-
-Üç not alır ve double.TryParse ile doğrular.
-
-Aritmetik ortalamayı hesaplar.
-
-Aşağıdaki kurallara göre harf notu atar:
-
-
-90–100 → AA
-85–89  → BA
-80–84  → BB
-75–79  → CB
-70–74  → CC
-65–69  → DC
-60–64  → DD
-55–59  → FD
- 0–54  → FF
-Sonucu iki ondalık basamakla gösterir.
+Giriş Doğrulama: Tüm uygulamalarda kullanıcıdan gelen girdiler TryParse ile kontrol edilir. Geçersiz girişlerde kullanıcı uyarılır ve tekrar deneme hakkı verilir.
 
 Gereksinimler
-.NET SDK 8.0 veya üzeri
 
-Komut satırına (PowerShell, Terminal) erişim
+.NET 6.0 SDK veya üzeri
 
-Katkıda Bulunma
-Depoyu fork’layın.
+C# 10.0 uyumlu bir geliştirme ortamı (Visual Studio, VS Code, Rider vb.)
 
-Kendi dalınızda geliştirme yapın.
+Kurulum ve Çalıştırma
 
-Pull request gönderin.
+Depoyu klonlayın:
+
+git clone https://github.com/BilalHantik41/Fundamentals-Project.git
+
+Proje dizinine gidin:
+
+cd Fundamentals-Project/C#\ Fundamentals\ Project
+
+Bağımlılıkları derleyin:
+
+dotnet build
+
+Uygulamayı çalıştırın:
+
+dotnet run
+
+Kullanım
+
+Menü ekranı açıldığında, konsolda görünen numaralardan birini girin ve Enter’a basın.
+
+Her uygulama sonunda, yeni bir seçim yapabilmek için Enter tuşuna basarak ana menüye dönebilirsiniz.
+
+0 girildiğinde program sonlanır.
+
+Kod Yapısı
+
+Program.cs: Tüm mantık bu tek dosyada toplanmıştır.
+
+static void RastgeleSayiBulmaOyunu(): Tahmin oyunu ile ilgili döngüler ve ipucu sistemi.
+
+static void HesapMakinasi(): Kullanıcıdan aldığı iki decimal değerle dört temel matematiksel işlemi yapar.
+
+static void OrtalamaHesaplama(): Üç double notu alır, ortalamasını hesaplar ve harf notu çıktısı verir.
