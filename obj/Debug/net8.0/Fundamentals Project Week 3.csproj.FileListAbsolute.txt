@@ -1,0 +1,30 @@
+C:\Users\Administrator\Patika+ C#\Fundamentals Project Week3\OrtalamaHesaplama\bin\Debug\net8.0\Fundamentals Project Week 3.exe
+C:\Users\Administrator\Patika+ C#\Fundamentals Project Week3\OrtalamaHesaplama\bin\Debug\net8.0\Fundamentals Project Week 3.deps.json
+C:\Users\Administrator\Patika+ C#\Fundamentals Project Week3\OrtalamaHesaplama\bin\Debug\net8.0\Fundamentals Project Week 3.runtimeconfig.json
+C:\Users\Administrator\Patika+ C#\Fundamentals Project Week3\OrtalamaHesaplama\bin\Debug\net8.0\Fundamentals Project Week 3.dll
+C:\Users\Administrator\Patika+ C#\Fundamentals Project Week3\OrtalamaHesaplama\bin\Debug\net8.0\Fundamentals Project Week 3.pdb
+C:\Users\Administrator\Patika+ C#\Fundamentals Project Week3\OrtalamaHesaplama\obj\Debug\net8.0\Fundamentals Project Week 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Patika+ C#\Fundamentals Project Week3\OrtalamaHesaplama\obj\Debug\net8.0\Fundamentals Project Week 3.AssemblyInfoInputs.cache
+C:\Users\Administrator\Patika+ C#\Fundamentals Project Week3\OrtalamaHesaplama\obj\Debug\net8.0\Fundamentals Project Week 3.AssemblyInfo.cs
+C:\Users\Administrator\Patika+ C#\Fundamentals Project Week3\OrtalamaHesaplama\obj\Debug\net8.0\Fundamentals Project Week 3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Patika+ C#\Fundamentals Project Week3\OrtalamaHesaplama\obj\Debug\net8.0\Fundamentals Project Week 3.sourcelink.json
+C:\Users\Administrator\Patika+ C#\Fundamentals Project Week3\OrtalamaHesaplama\obj\Debug\net8.0\Fundamentals Project Week 3.dll
+C:\Users\Administrator\Patika+ C#\Fundamentals Project Week3\OrtalamaHesaplama\obj\Debug\net8.0\refint\Fundamentals Project Week 3.dll
+C:\Users\Administrator\Patika+ C#\Fundamentals Project Week3\OrtalamaHesaplama\obj\Debug\net8.0\Fundamentals Project Week 3.pdb
+C:\Users\Administrator\Patika+ C#\Fundamentals Project Week3\OrtalamaHesaplama\obj\Debug\net8.0\Fundamentals Project Week 3.genruntimeconfig.cache
+C:\Users\Administrator\Patika+ C#\Fundamentals Project Week3\OrtalamaHesaplama\obj\Debug\net8.0\ref\Fundamentals Project Week 3.dll
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\bin\Debug\net8.0\Fundamentals Project Week 3.exe
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\bin\Debug\net8.0\Fundamentals Project Week 3.deps.json
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\bin\Debug\net8.0\Fundamentals Project Week 3.runtimeconfig.json
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\bin\Debug\net8.0\Fundamentals Project Week 3.dll
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\bin\Debug\net8.0\Fundamentals Project Week 3.pdb
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\obj\Debug\net8.0\Fundamentals Project Week 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\obj\Debug\net8.0\Fundamentals Project Week 3.AssemblyInfoInputs.cache
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\obj\Debug\net8.0\Fundamentals Project Week 3.AssemblyInfo.cs
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\obj\Debug\net8.0\Fundamentals Project Week 3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\obj\Debug\net8.0\Fundamentals Project Week 3.sourcelink.json
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\obj\Debug\net8.0\Fundamentals Project Week 3.dll
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\obj\Debug\net8.0\refint\Fundamentals Project Week 3.dll
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\obj\Debug\net8.0\Fundamentals Project Week 3.pdb
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\obj\Debug\net8.0\Fundamentals Project Week 3.genruntimeconfig.cache
+C:\Users\Administrator\Patika+ C#\Fundamentals-Project\obj\Debug\net8.0\ref\Fundamentals Project Week 3.dll

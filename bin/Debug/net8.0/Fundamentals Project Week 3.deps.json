@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fundamentals Project Week 3/1.0.0": {
+        "runtime": {
+          "Fundamentals Project Week 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fundamentals Project Week 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

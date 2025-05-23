@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Patika+ C#\\Fundamentals-Project\\C# Fundamentals Project\\C# Fundamentals Project\\C# Fundamentals Project.csproj",
-      "projectName": "C# Fundamentals Project",
-      "projectPath": "C:\\Users\\Administrator\\Patika+ C#\\Fundamentals-Project\\C# Fundamentals Project\\C# Fundamentals Project\\C# Fundamentals Project.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Patika+ C#\\Fundamentals Project Week3\\OrtalamaHesaplama\\Fundamentals Project Week 3.csproj",
+      "projectName": "Fundamentals Project Week 3",
+      "projectPath": "C:\\Users\\Administrator\\Patika+ C#\\Fundamentals Project Week3\\OrtalamaHesaplama\\Fundamentals Project Week 3.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Patika+ C#\\Fundamentals-Project\\C# Fundamentals Project\\C# Fundamentals Project\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Patika+ C#\\Fundamentals Project Week3\\OrtalamaHesaplama\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
